@@ -3,7 +3,7 @@ Connect 4 Project
 
 // TODO: Pick a Reach and Input the chosen functionality 
 
-REACH: [Graphics | AI]
+REACH: [AI]
 
 Functionality Implemented: 
     Medium: [Enter Functionality]
